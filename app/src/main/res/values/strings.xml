@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weather_app">WEATHER APP</string>
+    <string name="todo">TODO</string>
+    <string name="enter_city">Enter City</string>
+    <string name="search">Search</string>
+</resources>
